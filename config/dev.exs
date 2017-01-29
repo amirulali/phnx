@@ -39,5 +39,5 @@ config :phnx, Phnx.Repo,
   username: "postgres",
   password: "postgres",
   database: "phnx_dev",
-  hostname: "postgres",
+  hostname: "localhost",
   pool_size: 10
